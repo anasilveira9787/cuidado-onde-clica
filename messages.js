@@ -1,4 +1,4 @@
-const messages = ['Está salvo!', 'Você ainda vive', 'Teve sorte, hein?', 'Estou cada vez mais perto de você.','Já dise adeus para a família?','Ah, não foi dessa vez!']
+const messages = ['Está salvo!', 'Você ainda vive', 'Teve sorte, hein?', 'Estou cada vez mais perto de você.','Já disse adeus para a família?','Ah, não foi dessa vez!']
 
 
 
